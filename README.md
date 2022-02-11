@@ -19,10 +19,8 @@ On the second layer there are the 10 closest to the user's location filming loca
 On the third the same markers as on the second layer, but markers are in the form of circles
 
 ## An example of how this program works
-
->>> python main.py 2000 49.83826 24.02324 C:\Users\tetia\.vscode\projects\locations1.list
 Рік - 2000
 Локація - УКУ
-
+>>> python main.py 2000 49.83826 24.02324 C:\Users\tetia\.vscode\projects\locations1.list
 ![photo5202052037045500581](https://user-images.githubusercontent.com/87234112/153662113-261f759b-abae-4f96-9d1d-e992f824ed57.jpg)
 
