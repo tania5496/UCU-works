@@ -22,5 +22,5 @@ On the third the same markers as on the second layer, but markers are in the for
 
 >>> python main.py 2000 49.83826 24.02324 C:\Users\tetia\.vscode\projects\locations1.list
 
-[photo5202052037045500581](https://user-images.githubusercontent.com/87234112/153662113-261f759b-abae-4f96-9d1d-e992f824ed57.jpg)
+![photo5202052037045500581](https://user-images.githubusercontent.com/87234112/153662113-261f759b-abae-4f96-9d1d-e992f824ed57.jpg)
 
