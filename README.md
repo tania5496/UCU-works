@@ -1,6 +1,6 @@
 # Main
 Main is a Python-written program that takes as arguments the year, longitude, and latitude of a user's location and the path to the file where the movie database and information are located. The program returns a html file containing a map showing the 10 nearest filming locations of the specified year.
-## Сmponents of the program
+## Сomponents of the program
 The program consists of three functions. 
 
 The first function is line_processing. It processes the line from the file and returns list of film's name and place. 
